@@ -16,7 +16,6 @@
         <scala.binary.version>2.11</scala.binary.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <flink.sql.gateway.version>1.12</flink.sql.gateway.version>
         <junit.version>4.12</junit.version>
         <hadoop.version>2.7.7</hadoop.version>
     </properties>

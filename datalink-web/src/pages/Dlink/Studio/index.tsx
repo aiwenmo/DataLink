@@ -45,7 +45,7 @@ export default () => {
           height: 300,
         }}
       >
-        <FlinkSqlEditor value={value} secondRightData={secondRightData} />
+        <EditorTabs value={value} secondRightData={secondRightData} />
       </div>
 
       </Card>
